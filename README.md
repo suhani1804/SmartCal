@@ -1,6 +1,7 @@
-# SocialHub - Hacktoberfest-2023🔥
+# SmartCal - Hacktoberfest-2023🔥
 
-Welcome to SmartCal, an open-source project with a simple yet powerful goal: to develop a calculator with amazing user interface as a basic first project in your development process. 😃
+### Welcome to SmartCal
+An open-source project with a simple yet powerful goal: to develop a calculator with amazing user interface as a basic first project in your development process. 😃
 <br>
 If it's your first contribution do [check this out](https://github.com/suhani1804/first-contributions/)
 <br>
